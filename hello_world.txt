@@ -1,0 +1,5 @@
+#Trying out Git
+first we open using code from Terminal
+then we modified the content
+check on whatever there is changing
+be mindful this repo is being linked from github
